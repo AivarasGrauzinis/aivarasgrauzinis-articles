@@ -2,3 +2,6 @@ title: "Aivaras A Grauzinis — Articles"
 theme: minima
 plugins:
   - jekyll-feed
+
+# ✨ NEW
+baseurl: "/aivarasgrauzinis-articles"   # <- keep the leading slash
