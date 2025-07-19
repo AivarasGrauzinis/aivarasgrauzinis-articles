@@ -10,6 +10,7 @@ canonical_url: https://medium.com/let-there-be-prompt/midjourney-and-moodboard-c
 tags: ["Midjourney","AI art","Moodboard","Generative AI","Workflow"]
 robots: "follow, max-image-preview:large"
 ---
+![Ink‑and‑wash banjo player]({{ '/assets/images/2025-07-19-midjourney-cover_meta.jpg' | relative_url }})
 
 In the previous , I mentioned how it could be possible to make a new moodboard starting with one interesting image. Today, I wanted to elaborate on that process and show the results.
 
