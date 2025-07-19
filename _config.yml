@@ -1,0 +1,4 @@
+title: "Aivaras A Grauzinis — Articles"
+theme: minima
+plugins:
+  - jekyll-feed
