@@ -2,6 +2,9 @@ title: "Aivaras A Grauzinis — Articles"
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag   # ← NEW
+  - jekyll-sitemap   # ← (OPTIONAL but nice)
+
 
 # ✨ NEW
 baseurl: "/aivarasgrauzinis-articles"   # <- keep the leading slash
