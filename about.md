@@ -3,7 +3,8 @@
 layout: page
 title: "About"
 permalink: /about/
-description: "Aivaras A Grauzinis — scientist, engineer, photographer, artist & author"
+description: "Aivaras A Grauzinis — scientist, engineer, photographer, artist & author"
+nav_order: 2      # ← add this
 ---
 
 # Aivaras A Grauzinis
