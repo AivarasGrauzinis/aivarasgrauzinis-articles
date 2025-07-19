@@ -5,6 +5,8 @@ plugins:
   - jekyll-seo-tag   # ← NEW
   - jekyll-sitemap   # ← (OPTIONAL but nice)
 
+header_pages:          # ← tell Minima what goes in the top nav
+  - about.md
 
 # ✨ NEW
 baseurl: "/aivarasgrauzinis-articles"   # <- keep the leading slash
