@@ -7,8 +7,7 @@ layout: post
 tags: [AI, guidance, ancient wisdom, philosophy, prompt-engineering]
 ---
 
-![Whimsical figure wrapped in cloth staring at a glowing genie lamp, with bokeh lights in the background.]({{ '/assets/images
-/2025-07-20-ai-and-millennia-old-guide-cover_meta.jpg' | relative_url }})
+![Whimsical figure wrapped in cloth staring at a glowing genie lamp, with bokeh lights in the background.]({{ '/assets/images/2025-07-20-ai-and-millennia-old-guide-cover_meta.jpg' | relative_url }})
 
 > *This article was first published on the Medium publication **“Let There Be Prompt.”**  
 > This GitHub mirror may lack some images or interactive elements found in the original.*
