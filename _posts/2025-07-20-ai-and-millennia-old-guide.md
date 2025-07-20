@@ -7,12 +7,14 @@ layout: post
 tags: [AI, guidance, ancient wisdom, philosophy, prompt-engineering]
 ---
 
+![Whimsical figure wrapped in cloth staring at a glowing genie lamp, with bokeh lights in the background.]({ '/assets/images/2025-07-20-ai-and-millennia-old-guide-cover_meta.jpg' | relative_url })
+
 > *This article was first published on the Medium publication **“Let There Be Prompt.”**  
 > This GitHub mirror may lack some images or interactive elements found in the original.*
 
 [Read the original on Medium »](https://medium.com/let-there-be-prompt/ai-and-millennia-old-guide-how-to-use-it-4342407f24ca?sk=235579bf5bc97d3793f1694499dfc7b0)
 
-![Whimsical figure wrapped in cloth staring at a glowing genie lamp, with bokeh lights in the background.]({ '/assets/images/2025-07-20-ai-and-millennia-old-guide-cover_meta.jpg' | relative_url })
+
 
 You probably know that by now, to get a job in the middle and higher employment tiers, you have to demonstrate proficiency with AI. Just like you need to be familiar and at ease with Office tools.
 
